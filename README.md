@@ -1,2 +1,2 @@
-# untils
-algns scripts uteis 
+# utils
+some utils
